@@ -201,3 +201,12 @@ Available:  [3,3,2]
 - **First/Best/Worst Fit**: Classic block allocation strategies; the example dataset reproduces the textbook result where Best Fit allocates all processes while First Fit and Worst Fit leave one unallocated.
 - **Banker's Algorithm**: Need = Max − Allocation; safety algorithm finds a process ordering where each can finish with currently available + released resources.
 
+---
+
+# 👨‍💻 Author
+
+**Sandeep Kumar Verma**
+
+---
+
+⭐ If you like this project, give it a star on GitHub!

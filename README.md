@@ -73,16 +73,10 @@ This project was built to strengthen understanding of Operating System concepts 
 
 ## Author
 
-<<<<<<< HEAD
----
-
-# 👨‍💻 Author
 
 **Sandeep Kumar Verma**
 
 ---
 
 ⭐ If you like this project, give it a star on GitHub!
-=======
-Sandeep Kumar Verma
->>>>>>> 60aa495 (fix: API base URL for production)
+---

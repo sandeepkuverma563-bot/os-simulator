@@ -201,8 +201,3 @@ Available:  [3,3,2]
 - **First/Best/Worst Fit**: Classic block allocation strategies; the example dataset reproduces the textbook result where Best Fit allocates all processes while First Fit and Worst Fit leave one unallocated.
 - **Banker's Algorithm**: Need = Max − Allocation; safety algorithm finds a process ordering where each can finish with currently available + released resources.
 
----
-
-## ⚠️ Notes on Local Setup
-
-This project was generated in a sandboxed environment without npm registry access, so dependencies could not be live-installed or test-run end-to-end with a real browser. All algorithm logic was independently verified via direct Node.js execution (bypassing the HTTP layer) against known textbook examples, and all imports/exports were cross-checked programmatically. After `npm run install:all`, the app should run as described above — if you hit any issue, check the browser console and terminal output first, as missing dependencies are the most common cause.

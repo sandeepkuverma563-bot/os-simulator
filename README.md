@@ -73,6 +73,7 @@ This project was built to strengthen understanding of Operating System concepts 
 
 ## Author
 
+<<<<<<< HEAD
 
 **Sandeep Kumar Verma**
 
@@ -80,3 +81,6 @@ This project was built to strengthen understanding of Operating System concepts 
 
 ⭐ If you like this project, give it a star on GitHub!
 ---
+=======
+Sandeep Kumar Verma
+>>>>>>> 403df70 (feat: finalize OS Simulator Platform)
